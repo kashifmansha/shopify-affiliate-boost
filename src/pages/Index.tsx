@@ -102,7 +102,7 @@ const Index = () => {
               </p>
               <Button 
                 size="lg" 
-                className="bg-[#96BF48] hover:bg-[#7EA039] text-white px-8 py-6 text-lg rounded-full animate-pulse"
+                className="bg-[#3522d1] hover:bg-[#2a1ba6] text-white px-8 py-6 text-lg rounded-full animate-pulse"
                 onClick={() => window.open(affiliateLink, '_blank')}
               >
                 Launch Your Dream Store Now - Just $1/Month <ArrowRight className="ml-2" />
@@ -163,7 +163,7 @@ const Index = () => {
             </p>
             <Button 
               size="lg" 
-              className="bg-[#96BF48] hover:bg-[#7EA039] text-white px-8 py-6 text-lg rounded-full"
+              className="bg-[#3522d1] hover:bg-[#2a1ba6] text-white px-8 py-6 text-lg rounded-full"
               onClick={() => window.open(affiliateLink, '_blank')}
             >
               Start Your Success Story for $1/Month <ArrowRight className="ml-2" />
